@@ -6,9 +6,5 @@
 
 
 
-eerste commit
-
-nu gaan we een tweede keer committen
-
-
+nu ga ik eer derde commit en tweede weg doen
 
